@@ -1,7 +1,7 @@
 # 👋 Xin chào, mình là Phát!
 
 ### 🎯 Mục tiêu hiện tại
-- 🚀 Kiếm được **1 đến 2 triệu đô** trong vòng 1 tháng.
+- 🚀 Không đợi deline dí, phải dí lại deline .
 - 💻 Học hỏi thêm các kiến thức mới về lập trình và công nghệ.
 - 📚 Xây dựng thói quen lưu trữ code và tài liệu một cách khoa học.
 
